@@ -1,142 +1,49 @@
 {
-    "title": "IoT + Robotics Engineer",
-    "name": "Srijan Bhattacharyya",
-    "position": "IoT and Robotics ENGINEER",
+    "title": "",
+    "name": "",
+    "position": "",
     "contact": {
-        "email": "srijan.76448@gmail.com",
-        "phone": [
-            "+91 70593 43651",
-            "+91 94336 42433"
-        ],
+        "email": "",
+        "phone": [],
         "location": {
-            "address": "New Town, Kolkata, India",
-            "url": "https://maps.app.goo.gl/hVNaU5N5A6EcEfJEA"
+            "address": "",
+            "url": ""
         },
-        "url": [
-            "https://www.linkedin.com/in/srijan76448",
-            "https://resume.76448.in"
-        ]
+        "url": []
     },
     "skills": [
         {
-            "name": "Programming Languages (Python, C, C++, Lua)",
-            "strength": 80
-        },
-        // {
-        //     "name": "Scripting Languages (Bash, Assembly)",
-        //     "strength": 80
-        // },
-        {
-            "name": "Designing (3D, PCB, Schematic)",
-            "strength": 75
-        },
-        {
-            "name": "Python ML Libraries",
-            "strength": 40
-        },
-        {
-            "name": "IoT and Robotics Accessories",
-            "strength": 80
-        },
-        // {
-        //     "name": "DataBase Management Accessories (SQL, MongoDB)",
-        //     "strength": 70
-        // },
-        {
-            "name": "GitHub Accessories",
-            "strength": 60
-        // },
-        // {
-        //     "name": "LSA (Linux System/Server Administration)",
-        //     "strength": 95
-        // },
-        // {
-        //     "name": "Cyber Security",
-        //     "strength": 20
+            "skill": "",
+            "strength": null
         }
     ],
     "languages": [
         {
-            "name": "English",
-            "strength": 100
-        },
-        {
-            "name": "Hindi",
-            "strength": 60
-        },
-        {
-            "name": "Bengali",
-            "strength": 100
+            "lang": "",
+            "strength": null
         }
     ],
     "personal_skills": [
         {
-            "name": "Independent Worker",
-            "strength": 95
-        },
-        {
-            "name": "Mentoring & Guidance",
-            "strength": 95
-        },
-        {
-            "name": "Adaptability",
-            "strength": 80
+            "skill": "",
+            "strength": null
         }
     ],
     "education": [
         {
-            "degree": "Bachelor of Technology in Computer Science and Engineering",
-            "duration": "2022-2026",
-            "institution": "Maulana Abul Kalam Azad University of Technology, West Bengal",
-            "gpa": "6.5"
+            "degree": "",
+            "duration": "",
+            "institution": "",
+            "gpa": ""
         }
     ],
     "projects": [
         {
-            "title": "ISHA (Interactive Smart Home Assistant)",
-            "description": "ISHA is an innovative AI assistant designed to revolutionize the way you interact with technology. As a versatile and intelligent companion, ISHA can assist you with a wide range of tasks, from simple queries to complex problem-solving, Smart Home Automation.",
+            "title": "",
+            "description": "",
             "url": "",
-            "date": "2024 - Present",
-            "features": [
-                "Basic Task Automation: Schedule reminders, control smart home devices, etc...",
-                "Information Retrieval: Answer factual questions, provide summaries of topics, etc...",
-                "Interactive Conversation: Engage in natural language conversations in several languages.",
-                "Creative Assistance: Helps with creative endeavors, like writing stories, poems, or scripts.",
-                "Artificial Emotional Intelligence: Recognizes and responds to your emotions, offering support and understanding."
-            ]
-        },
-        {
-            "title": "Smart Gloves",
-            "description": "Developed smart gloves to capture and relay finger and hand movements to a Raspberry Pi 3B using an ESP32-S3, which latter on relays the data to a target device. The gloves are designed to be lightweight and comfortable, making them suitable for extended use. The system is powered by a rechargeable battery, ensuring portability and ease of use.",
-            "url": "",
-            "date": "",
-            "features": [
-                "Designed and implemented a system for finger and hand movement capture.",
-                "Integrated MPU-6050 and ESP32C3.",
-                "Developed communication protocol for data transmission to a paired device.",
-                "Technologies used: ESP32-C3, MPU6050, Micro-Python, BLE Protocol"
-            ]
-        },
-        {
-            "title": "DevOS EcoSystem",
-            "description": "DevOS EcoSystem is a unified ecosystem of Arch Linux-based operating systems engineered for seamless integration across diverse personal computing platforms, including desktops, laptops, smartphones, smartwatches, Raspberry Pi devices, automobiles, etc. Leveraging a shared core and the custom DevPKG package manager, DevOS provides a consistent and customizable experience while the innovative OctaConn feature enables effortless inter-device communication within a user's personal network.",
-            "url": "",
-            "date": "2022 - Present",
-            "features": [
-                "Unified Cross-Platform Architecture: Developed a cohesive ecosystem of Arch Linux-based operating systems tailored for diverse platforms (Desktop/Laptop, Smartphone, Smartwatch, Raspberry Pi, Automobile), sharing a common core and streamlining development and user experience.",
-                "Integrated DevPKG Package Manager: Designed and implemented a custom package manager, DevPKG, ensuring consistent software installation, updates, and management across all DevOS platforms, simplifying the user experience and system administration.",
-                "Seamless Inter-Device Communication via OctaConn: Pioneered an innovative, passwordless inter-device communication system, OctaConn, enabling effortless resource sharing and interaction between a user's DevOS devices within a defined range, enhancing productivity and convenience.",
-                "Platform-Optimized Adaptations: Successfully customized and optimized the Arch Linux base for the unique hardware and user interface requirements of each target platform, demonstrating expertise in kernel configuration, driver integration, and UI/UX design for diverse form factors.",
-                "Community-Driven Open Source Initiative: Established and led an open-source project, fostering community contributions, managing collaborative development, and promoting transparency and shared ownership in the evolution of the DevOS Ecosystem."
-            ]
-        // },
-        // {
-        //     "title": "Profiler + MatchMaking Assistant",
-        //     "description": "",
-        //     "url": "",
-        //     "date": "",
-        //     "features": [] 
+            "date": ""
         }
     ],
-    "summary": "IoT and Robotics Engineer with a solid foundation in programming (Python, C, C++, Lua) and design (3D, PCB, Schematic). My skill set includes strong capabilities in IoT and robotics accessories, along with experience in Python ML libraries and GitHub. As an independent worker, I excel in mentoring and readily adapt to new challenges. My projects include ISHA, an interactive smart home assistant, Smart Gloves for capturing hand movements, and DevOS EcoSystem, a unified Arch Linux-based operating system for various devices, featuring a custom package manager and seamless inter-device communication. Currently based in Kolkata and pursuing my B.Tech in Computer Science and Engineering."
+    "summary": ""
 }
