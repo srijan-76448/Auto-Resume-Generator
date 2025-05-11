@@ -183,7 +183,7 @@ def generate_html_resume(json_data):
             <div class="project-item">
                 <div class="title-date">
                     <h3 class="project-title"><a href="{project['url']}">{project['title']}</a></h3>
-                    <p class="project-timeline">{project['date']}</p>
+                    <p class="project-timeline">{project['timeline']}</p>
                 </div>
                 <p class="project-description">{project['description']}</p>
             </div>"""
