@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    justify-content: center;
+}
+
+.resume-container {
+    display: flex;
+    max-width: 800px;
+    padding: 30px;
+}
+
+.left-section {
+    background-color: #e0f7fa;
+    color: #00838f;
+    padding: 20px;
+    width: 30%;
+    align-items: center;
+}
+
+.right-section {
+    padding: 20px;
+    width: 70%;
+}
+
+h1, h2, h3 {
+    color: #00838f;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+a {
+    color: #00838f;
+}
+
+a:hover {
+    color: #005662;
+    text-decoration: underline;
+}
+
+.contact-info, .skills, .languages, .personal-skills, .education {
+    margin-bottom: 10px;
+}
+
+.contact-info p, .skills li, .languages li, .personal-skills li, .education p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.skill-bar {
+    background-color: #b2ebf2;
+    height: 8px;
+    border-radius: 4px;
+    margin-top: 3px;
+}
+
+.skill-level {
+    background-color: #00bcd4;
+    height: 8px;
+    border-radius: 4px;
+}
+
+.experience-item {
+    margin-bottom: 15px;
+}
+.title-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+.project-title {
+    margin: 0;
+}
+
+.project-timeline {
+    color: #00838f;
+    margin: 0;
+}
