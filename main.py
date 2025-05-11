@@ -93,7 +93,7 @@ def generate_html_resume(json_data):
 
         for skill in json_data['skills']:
             html += f"""
-                    <li>{skill['name']} <div class="skill-bar"><div class="skill-level" style="width: {skill['strength']}%;"></div></div></li>"""
+                    <li>{skill['skill']} <div class="skill-bar"><div class="skill-level" style="width: {skill['strength']}%;"></div></div></li>"""
 
         html += f"""
                 </ul>
@@ -108,7 +108,7 @@ def generate_html_resume(json_data):
 
         for language in json_data['languages']:
             html += f"""
-                    <li>{language['name']} <div class="skill-bar"><div class="skill-level" style="width: {language['strength']}%;"></div></div></li>"""
+                    <li>{language['lang']} <div class="skill-bar"><div class="skill-level" style="width: {language['strength']}%;"></div></div></li>"""
 
         html += f"""
                 </ul>
@@ -123,7 +123,7 @@ def generate_html_resume(json_data):
 
         for skill in json_data['personal_skills']:
             html += f"""
-                    <li>{skill['name']} <div class="skill-bar"><div class="skill-level" style="width: {skill['strength']}%;"></div></div></li>"""
+                    <li>{skill['skill']} <div class="skill-bar"><div class="skill-level" style="width: {skill['strength']}%;"></div></div></li>"""
 
         html += f"""
                 </ul>
