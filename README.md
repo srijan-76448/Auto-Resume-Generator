@@ -2,6 +2,7 @@
 This Python script processes data from a JSON or JSONC file to generate an HTML resume. It reads contact information, skills, education, experience, and projects, then structures them into a well-formatted HTML file.
 
 **Before executing this script, please read the [manual.md](manual.md) file for detailed instructions on data file format and usage.**
+**Please check the [sample resume](https://sam.arg.76448.in)**
 
 ## Prerequisites
 - Python 3.x installed on your system.
